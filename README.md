@@ -1,10 +1,6 @@
-# Repo Template
+# Ris Visual Studio Code Theme
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/Dire-Hope/community)
-
-> A template for creating new repositories in the @orbitdb organization
-
-This repository is meant to serve as a general template for how to set up new repositories in the @Dire-Hope organization. In general, setting up a new repository should take only a few minutes; use this repository as a way of finding example files, and use the following checklist to ensure that you've set up the repository correctly.
 
 ## Install
 
