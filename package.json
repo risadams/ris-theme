@@ -5,9 +5,14 @@
     "version": "1.0.0",
     "publisher": "Ris Adams",
     "license": "MIT",
+    "author": "Ris Adams",
+    "bugs": {
+    "url": "https://github.com/risadams/ris-theme/issues"
+    },
+    "homepage": "https://github.com/risadams/ris-theme#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/risadams/ris-theme"
+        "url": "git+https://github.com/risadams/ris-theme"
     },
     "keywords": [
         "Theme",
