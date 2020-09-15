@@ -1,0 +1,47 @@
+{
+    "name": "ris-theme",
+    "displayName": "Ris Theme",
+    "description": "A VS Code Theme",
+    "version": "1.0.0",
+    "publisher": "Ris Adams",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/risadams/ris-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Light Theme",
+        "Ris",
+        "Dire Hope",
+        "Accessible Theme"
+    ],
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "scripts": {
+        "publish": "vsce publish"
+    },
+    "galleryBanner": {
+        "color": "#061526",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ris Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ris Dark-color-theme.json"
+            },
+            {
+                "label": "Ris Light",
+                "uiTheme": "vs",
+                "path": "./themes/Ris Light-color-theme.json"
+            }
+        ]
+    }
+}
