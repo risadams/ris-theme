@@ -4,7 +4,7 @@
 
 ## Install
 
-These instructions are basic; you can use any method to do this work. The important part is making sure that you follow the checklist below before publishing the repository.
+Available Here: https://marketplace.visualstudio.com/items?itemName=RisAdams.ris-theme
 
 1. You must have [Visual Studio Code](https://code.visualstudio.com/) installed
 1. Launch VS Code
@@ -18,7 +18,7 @@ These instructions are basic; you can use any method to do this work. The import
 
 If you think this could be better, please [open an issue](https://github.com/orbitdb/repo-template/issues/new)!
 
-Please note that all interactions in [@OrbitDB](https://github.com/orbitdb) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in [@DireHope](https://github.com/direhope) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
